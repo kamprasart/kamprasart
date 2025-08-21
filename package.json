@@ -1,0 +1,16 @@
+{
+  "name": "kamprasart-profile",
+  "version": "1.0.0",
+  "description": "Personal GitHub profile repository",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build process defined'",
+    "start": "echo 'No start script defined'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamprasart/kamprasart.git"
+  },
+  "author": "kamprasart",
+  "license": "MIT"
+}
